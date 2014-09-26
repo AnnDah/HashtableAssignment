@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Entry.cs" />
     <Compile Include="Hashtable.cs" />
+    <Compile Include="MainMenu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
